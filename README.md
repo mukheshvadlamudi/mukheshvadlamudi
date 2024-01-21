@@ -25,7 +25,7 @@ Feel free to explore my repositories for more!
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/mukhesh-vadlamudi-557480201)
+- [LinkedIn](www.linkedin.com/in/mukheshvadlamudi)
 - [Twitter](https://twitter.com/MukheshVadlamu1)
 
 Let's connect and collaborate on exciting projects! 🚀
