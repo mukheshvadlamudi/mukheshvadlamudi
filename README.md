@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about web development, artificial i
 
 ## My Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Web Technologies:** React, Node.js, Express, MongoDB
-- **Artificial Intelligence:** TensorFlow, PyTorch
+- **Languages:** Java, Python
+- **Web Technologies:** HTML,CSS
+- **Artificial Intelligence:** OpenCV,YOLO
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ## Projects
